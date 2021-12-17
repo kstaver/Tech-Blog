@@ -4,6 +4,6 @@ const usersData = {
 
 }
 
-const seedUsers = () => Comment.bulkCreate(usersData);
+const seedUsers = () => User.bulkCreate(usersData);
 
 module.exports = seedUsers;
