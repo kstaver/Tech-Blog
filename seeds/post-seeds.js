@@ -4,6 +4,6 @@ const postData = {
 
 }
 
-const seedPosts = () => Comment.bulkCreate(postData);
+const seedPosts = () => Post.bulkCreate(postData);
 
 module.exports = seedPosts;
