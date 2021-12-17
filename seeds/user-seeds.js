@@ -2,42 +2,49 @@ const { User } = require('../models');
 
 const usersData = [
     {
-        username: "",
+        username: "cwidowgast",
+        twitter: "@frumpkin",
+        github: "cwidogast",
+        email: "caleb.widogast@soltryce.edu",
+        password: "7+un2TkJ=CK^aRn_RyJ-yErq-aWmP4mas96C"
+    },
+    {
+        username: "jlavorre",
+        twitter: "@hellobees",
+        github: "",
+        email: "little_sapphire@",
+        password: "cinnamonRoles"
+    },
+    {
+        username: "cclay",
+        twitter: "@deadpeopletea",
+        github: "fantastic",
+        email: "kingsleaf@thebloominggrove.com",
+        password: "th3Wildmother"
+    },
+    {
+        username: "ynydoorin",
         twitter: "",
         github: "",
         email: "",
         password: ""
     },
     {
-        username: "",
+        username: "blionett",
         twitter: "",
         github: "",
         email: "",
         password: ""
     },
     {
-        username: "",
+        username: "vbrenatto",
         twitter: "",
         github: "",
         email: "",
         password: ""
     },
     {
-        username: "",
-        twitter: "",
-        github: "",
-        email: "",
-        password: ""
-    },
-    {
-        username: "",
-        twitter: "",
-        github: "",
-        email: "",
-        password: ""
-    },
-    {
-        username: "",
+        username: "fjord",
         twitter: "",
         github: "",
         email: "",
