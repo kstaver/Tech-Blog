@@ -11,8 +11,8 @@ const usersData = [
     {
         username: "jlavorre",
         twitter: "@hellobees",
-        github: "",
-        email: "little_sapphire@",
+        github: "jester",
+        email: "little_sapphire@fancypants.net",
         password: "cinnamonRoles"
     },
     {
@@ -24,31 +24,31 @@ const usersData = [
     },
     {
         username: "ynydoorin",
-        twitter: "",
-        github: "",
-        email: "",
-        password: ""
+        twitter: "@yasha",
+        github: "yasha",
+        email: "yasha@",
+        password: "WildFlowers"
     },
     {
         username: "blionett",
-        twitter: "",
-        github: "",
-        email: "",
-        password: ""
+        twitter: "@swoleregard",
+        github: "scribbles",
+        email: "expositor_beau@cobaltsoul.gov",
+        password: "Z$g@v4krk+ynQJVW"
     },
     {
         username: "vbrenatto",
-        twitter: "",
-        github: "",
-        email: "",
-        password: ""
+        twitter: "@nottthebrave",
+        github: "tinkerer",
+        email: "v.brenatto@brenattoElixirs.com",
+        password: "JL6!L4Vq$U@dk8M"
     },
     {
         username: "fjord",
-        twitter: "",
-        github: "",
-        email: "",
-        password: ""
+        twitter: "@captaintusktooth",
+        github: "fjord",
+        email: "fjord@openseas.com",
+        password: "7c;(FX?p"
     }
 ]
 
