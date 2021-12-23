@@ -31,7 +31,7 @@
 
 
   ## Questions
-  You can find the link to my application [here](https://github.com/kstaver/Tech-Blog). If you have any questions pertaining to this project, please feel free to contact me.
+  You can find the link to the application [here](https://github.com/kstaver/Tech-Blog). If you have any questions pertaining to this application, please feel free to contact me.
 
   ## Contact Info
   - Github: [kstaver](https://github.com/kstaver)
