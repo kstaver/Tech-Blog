@@ -44,4 +44,4 @@ router.delete('/:id', withAuth, (req, res) => {
         });
 });
 
-module.esports = router;
+module.exports = router;
