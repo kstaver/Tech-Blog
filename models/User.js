@@ -43,7 +43,7 @@ User.init(
             validate: {
                 len: [4]
             }
-        }
+        },
     },
     {
         hooks: {
@@ -57,7 +57,7 @@ User.init(
             }
         },
         sequelize,
-        timestamps: true,
+        timestamps: false,
         freezeTableName: true,
         underscored: true,
         modelName: 'user'
