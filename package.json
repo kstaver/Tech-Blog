@@ -1,5 +1,5 @@
 {
-  "name": "tech-blog",
+  "name": "Tech-Talk",
   "version": "1.0.0",
   "description": "![License](https://www.apache.org/licenses/LICENSE-2.0.txt)",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kstaver/Tech-Blog.git"
+    "url": "git+https://github.com/kstaver/Tech-Talk.git"
   },
   "author": "Kendra Staver",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kstaver/Tech-Blog/issues"
+    "url": "https://github.com/kstaver/Tech-Talk/issues"
   },
-  "homepage": "https://github.com/kstaver/Tech-Blog#readme",
+  "homepage": "https://github.com/kstaver/Tech-Talk#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "bcrypt-nodejs": "^0.0.3",
