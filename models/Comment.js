@@ -27,12 +27,15 @@ Comment.init(
                 key: 'id'
             }
         },
-        comment_texts: {
+        comment_text: {
             type: DataTypes.STRING,
             allowNull: false,
             validate: {
                 len: [1]
             }
+        },
+        created_at:{
+            type:  DataTypes.DATE
         }
     },
     {
